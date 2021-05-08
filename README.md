@@ -23,3 +23,21 @@ Along the process I was taking advantage of [dribbble](https://dribbble.com/) in
   <img src="design/mobile_views/game_on_dark.jpg" width="24%" />
   <img src="design/mobile_views/game_paused_dark.jpg" width="24%" />
 </p>
+
+## Desktop version light
+
+<p>
+  <img src="design/desktop_views/introduction_page_light.jpg" width="49%" />
+  <img src="design/desktop_views/settings_page_hard_light.jpg" width="49%" />
+  <img src="design/desktop_views/game_on_light.jpg" width="49%" />
+  <img src="design/desktop_views/game_paused_light.jpg" width="49%" />
+</p>
+
+## Desktop version dark
+
+<p>
+  <img src="design/desktop_views/introduction_page_dark.jpg" width="49%" />
+  <img src="design/desktop_views/settings_page_hard_dark.jpg" width="49%" />
+  <img src="design/desktop_views/game_on_dark.jpg" width="49%" />
+  <img src="design/desktop_views/game_paused_dark.jpg" width="49%" />
+</p>
